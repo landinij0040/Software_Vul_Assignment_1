@@ -1,5 +1,5 @@
 <?php
-$TokenType = [
+$TOKENTYPE = [
     'LBRACKET' => 0,
     'RBRACKET'=> 1,
     'LSQUAREBRACKET' => 2,
